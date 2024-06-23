@@ -43,7 +43,12 @@ color: #2E2F42;
         line-height: 1.5;
         letter-spacing: 0.02em;
 }
-
+.header-list-title:hover{
+    color: #e54d61;
+}
+.header-list-title:focus{
+    color: #4D5AE5;
+}
 .header-info {
 
 }
@@ -90,7 +95,12 @@ cursor: pointer;
     line-height: 1.5;
     letter-spacing: 0.04em;
 }
-
+.main-button:hover{
+    color: #2E2F42;
+}
+.main-button:focus{
+    color: #2E2F42;
+}
 /*===========================*/
 
 .goals {
